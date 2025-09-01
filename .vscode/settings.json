@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.s": "attasm",
+        "*.asm": "attasm",
+        ".s": "attasm",
+        "*.ol": "plaintext",
+        "README": "markdown",
+        "stdlib.h": "c",
+        ".h": "c",
+        "stdbool.h": "c",
+        "arith.h": "c"
+    }
+}

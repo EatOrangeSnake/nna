@@ -4,7 +4,8 @@
 
 typedef unsigned char NNUnit;
 typedef NNUnit NNT[];
+typedef size_t NNTLen;
 typedef struct _NNA {
     NNT* nnt;
-    size_t length;
+    NNTLen length;
 } NNA;
